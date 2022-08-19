@@ -1,16 +1,16 @@
 # Hospitalizations for preventable causes: Using public data to map cases.
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
-## Desenvolvedores
+
+## Devs
  - [Igor Duarte #1](https://github.com/igorduartt)
 ---
 
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
+> **Nota**: v1, 08-19-2022.
 
-## Funcionalidades
+## Functions
 
-Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
+This project with the objective of producing about hospitalizations through an analysis of primary care in the capital of Ceará.
  - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
  - Configuração para criação de aplicação `streamlit`;
  - Configuração para hospedagem no [heroku](https://heroku.com);
